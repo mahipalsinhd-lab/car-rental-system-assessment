@@ -1,0 +1,3 @@
+package com.carrental.exception;
+
+public enum ErrorCode {INVALID_REQUEST, INVALID_DATE_RANGE, CAR_UNAVAILABLE, RESERVATION_NOT_FOUND, INTERNAL_ERROR}
